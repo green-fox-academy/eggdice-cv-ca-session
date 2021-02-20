@@ -1,0 +1,33 @@
+body {
+    font-size: 18px;
+    line-height: 1.5;
+    background: #CCCCCC;
+}
+
+.site {
+    width: 1200px;
+    margin: 30px auto;
+    padding: 12px 30px;
+    background: #FFFFFF;
+}
+
+.description {
+    display: flex;
+}
+
+.profile-picture {
+    margin: 1em 10px 1em 0;
+}
+
+.profile-picture img {
+    width: 395px;
+}
+
+.list-item {
+    margin-left: 24px;
+}
+
+.list-item time {
+    font-size: 1.1em;
+    font-weight: 600;
+}
